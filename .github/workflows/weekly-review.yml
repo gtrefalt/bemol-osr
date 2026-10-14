@@ -41,7 +41,7 @@ jobs:
           claude_args: |
             --model opus
             --max-turns 100
-            --allowedTools "Bash"
+            --allowedTools "Bash,Read,Edit,Write,MultiEdit"
           prompt: |
             Tu es l'auditeur hebdomadaire du dépôt ${{ github.repository }} :
             « Bémol », web app du planning de l'Orchestre de la Suisse Romande

@@ -82,7 +82,7 @@ jobs:
           claude_args: |
             --model sonnet
             --max-turns 200
-            --allowedTools "Bash"
+            --allowedTools "Bash,Read,Edit,Write,MultiEdit"
           prompt: |
             Tu es déclenché par un commentaire de
             @${{ github.event.comment.user.login }} mentionnant @claude sur la
@@ -182,7 +182,7 @@ jobs:
           claude_args: |
             --model sonnet
             --max-turns 200
-            --allowedTools "Bash"
+            --allowedTools "Bash,Read,Edit,Write,MultiEdit"
           prompt: |
             Tu es déclenché par un nouveau commentaire de
             @${{ github.event.comment.user.login }} sur l'issue

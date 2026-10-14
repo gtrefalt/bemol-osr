@@ -57,7 +57,7 @@ jobs:
           claude_args: |
             --model sonnet
             --max-turns 100
-            --allowedTools "Bash"
+            --allowedTools "Bash,Read,Edit,Write,MultiEdit"
           prompt: |
             La branche `${{ inputs.head_ref }}` (PR #${{ inputs.pr_number }} du
             dépôt ${{ github.repository }}) est en conflit avec `main`, suite à

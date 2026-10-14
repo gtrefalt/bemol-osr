@@ -58,10 +58,11 @@ jobs:
           # Authentification via l'abonnement Claude (Pro/Max), pas de
           # facturation API. Token généré localement par `claude setup-token`.
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          # En mode agent (prompt fourni), seule la lecture/édition de fichiers
-          # est permise par défaut : on autorise tout Bash (le runner est jetable
-          # et isolé) pour que Claude puisse pousser sa branche, créer la PR,
-          # commenter l'issue et tester librement.
+          # En mode agent (prompt fourni), l'édition de fichiers n'est PAS
+          # permise par défaut (refus constaté sur la PR #212, reproduit par la
+          # revue du 12/10/2026) : on l'autorise explicitement, ainsi que tout
+          # Bash (le runner est jetable et isolé) pour que Claude puisse pousser
+          # sa branche, créer la PR, commenter l'issue et tester librement.
           #
           # --max-turns : c'est le job le plus lourd du dépôt (implémenter, puis
           # tout le rituel de CLAUDE.md — captures Playwright, worktree
@@ -74,7 +75,7 @@ jobs:
           claude_args: |
             --model sonnet
             --max-turns 200
-            --allowedTools "Bash"
+            --allowedTools "Bash,Read,Edit,Write,MultiEdit"
           prompt: |
             Tu es déclenché par la création de l'issue #${{ github.event.issue.number }}
             dans le dépôt ${{ github.repository }}.

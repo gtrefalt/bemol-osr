@@ -55,7 +55,7 @@ jobs:
           claude_args: |
             --model sonnet
             --max-turns 100
-            --allowedTools "Bash"
+            --allowedTools "Bash,Read,Edit,Write,MultiEdit"
           prompt: |
             La CI du dépôt ${{ github.repository }} vient d'échouer sur la
             branche `${{ github.event.workflow_run.head_branch }}` :
