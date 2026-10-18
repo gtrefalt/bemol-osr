@@ -1,0 +1,2202 @@
+{
+ "entries": [
+  {
+   "at": "2026-10-18T09:09:42.413Z",
+   "type": "memo",
+   "programs": [
+    {
+     "liste": "Accueil 01",
+     "status": "removed"
+    },
+    {
+     "liste": "Atelier Découverte GT",
+     "status": "added"
+    },
+    {
+     "liste": "Cérémonie d'Accueil des Nouveaux Habitants",
+     "status": "added"
+    },
+    {
+     "liste": "Concerts pour Petites Oreilles 1",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Institut Jaques-Dalcroze : rue de la Terrassière 44"
+      },
+      {
+       "field": "solistes",
+       "before": "Michel WESTPHAL, clarinette · Catherine PÉPIN-WESTPHAL, basson · Yin SHEN, violon · Ivy WONG, contrebasse · Didier PUNTOS, piano · Louise CALAME, récitant",
+       "after": "Michel WESTPHAL, clarinette · Catherine PÉPIN-WESTPHAL, basson · Yin SHEN, violon · Ivy WONG, contrebasse · Didier PUNTOS, piano · Louise CALAME, récitante"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Concerts pour Petites Oreilles 2",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Institut Florimont : avenue du Petit-Lancy 37 à Lancy"
+      },
+      {
+       "field": "solistes",
+       "before": "Clément CHARPENTIER-LEROY, cor · Giuliano SOMMERHALDER, trompette · Antoine PITTET, trompette · Alexandre FAURE, trombone · Ross KNIGHT, tuba · Thomas DIEBOLD, récitant",
+       "after": ""
+      }
+     ],
+     "worksAdded": [
+      "Pascal RENOU — "
+     ],
+     "worksRemoved": [
+      "Pascal RENOU — Pilou le plantigrade, conte musical pour quintette de cuivres"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Concerts pour Petites Oreilles 3",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Centre des Arts Ecolint : route de Chêne 62"
+      },
+      {
+       "field": "solistes",
+       "before": "Sarah RUMER, flûte (20 mars) · Loïc SCHNEIDER, flûte (21 mars) · Simon SOMMERHALDER, hautbois (20 mars) · Nora CISMONDI, hautbois (21 mars) · Benoît WILLMANN, clarinette (20 mars) · Camillo BATTISTELLO, clarinette (21 mars) · Luis MARQUEZ TERUEL, basson (20 mars) · Vincent GODEL, basson (21 mars) · Clément CHARPENTIER-LEROY, cor (20 et 21 mars) · Marion FONTANA, récitant (20 et 21 mars)",
+       "after": ""
+      }
+     ],
+     "worksAdded": [
+      "Serge PROKOFIEV — "
+     ],
+     "worksRemoved": [
+      "Serge PROKOFIEV — Pierre et le loup, arrangement pour quintette à vent de Joachim Linckelmann"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Concerts pour Petites Oreilles 4",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Sans les mains - Création de l'Ensemble Beta-Chronicles (de G.Jacot et JN.Gos)\nCoproduction OSR et Cité Bleue Genève\nCité Bleue : avenue de Miremont 46"
+      },
+      {
+       "field": "solistes",
+       "before": "Guillaume JACOT, violon · Luca CASCIATO, alto · Jean-Noël GOS, guitare · Michael TSCHAMPER, percussion",
+       "after": ""
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [
+      "Sans les mains, pour petit ensemble et récitant"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Doudou Concert 1",
+     "status": "removed"
+    },
+    {
+     "liste": "Doudou Concert 2",
+     "status": "removed"
+    },
+    {
+     "liste": "Doudou Concert 3",
+     "status": "removed"
+    },
+    {
+     "liste": "Liste 01",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "La Plage classique"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "les Listes 01, 02 et 04 sont contraires à la Liste 03"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "13.08-21h15 : tenue d'été OSR"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Florence PRICE — Colonial Dance, pour orchestre",
+       "fields": [
+        "percussions"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 02",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "1.0.1.1 / 1.0.0.0 / 1.2.0.1 / 8.6.4.3.2 (31 musiciens)",
+       "after": "1.0.1.1 / 1.0.0.0 / 0.2.0.1 / 8.6.4.3.2 (30 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "La Plage Cinéconcert\nAttention : même effectif le plus rigoureusement possible que Liste 11 saison 2526 (y compris mus.suppl.) afin de remonter la production en 2 services de répétition"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "les Listes 01, 02 et 04 sont contraires à la Liste 03"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "14.08-21h15 : tenue d'été OSR"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Neil BRAND — The Lodger, A story of the London Fog",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "detail"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 03",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "La Plage Crossover\nAnnées folles - Hommage à Joséphine Baker\navec Kennedy, l'une des grandes voix du jazz-soul américain\nSet-list [titre : musique / paroles] - ordre à confirmer en répétition\narrangements originaux d'Alexandre Mastrangello commandés par l'OSR sauf Addicted to addictions / Let's Party\n-My fate is in your hands : Thomas 'Fats' Waller / Andy Razaf\n-I'm feeling like a million : Nacio Herb Brown / Arthur Freed\n-Bye bye blackbird : Ray Henderson / Mort Dixon\n-London Town : Wal-Berg / Wynne Thomas & Léo Lelièvre\n-J'attendrais : Dino Olivieri / Nino Rastelli - Louis Poterat\n-Rag-Mazurka d'après Francis Poulenc (orchestre seul)\n-Don't touch my tomatoes : Sam Manning / Sam Manning\n-Afraid to dream : Mark Gordon & Harry Revel (paroles et musique)\n-You're driving me crazy : Walter Donaldson / Walter Donaldson\n-You are my lucky star (Nacio Herb Brown / Arthur Freed)\n-J'ai deux amours : Vincent Scotto / Géo Koger & Henri Varna\n-BIS : Addicted to addictions / Let's Party : paroles & musique : Ondrej Pivec & Kennedy / arrangements : Tomas Sykora / adaptation : Alexandre Mastrangelo"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "les Listes 01, 02 et 04 sont contraires à la Liste 03"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "15.08-21h15 : tenue d'été OSR"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Alexandre MASTRANGELO — Hommage à Josephine Baker",
+       "fields": [
+        "percussions"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 04",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "ENREGISTREMENT DISCOGRAPHIQUE STUDIO en collaboration avec la RTS\n-conseiller artistique et distribution : Jean-Pierre Brossmann\n-label : RTS + PentaTone ou Chandos ou Sony\n-avec extension avant-scène\n-le studio d'enregistrement est installé au foyer des chœurs (foyer du bas). L'orchestre utilise le foyer du public"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "les Listes 01, 02 et 04 sont contraires à la Liste 03"
+      },
+      {
+       "field": "solistes",
+       "before": "Bernard RICHTER, ténor (Pelléas) · Jenny DAVIET, soprano (Mélisande) · Jérôme BOUTILLIER, baryton (Golaud) · Nicolas TESTÉ, basse (Arkel) · Lucile RICHARDOT, mezzo-soprano (Geneviève) · Anne Blanche TRILLAUD RUGGERI, soprano (Yniold) · Edwin CROSSLEY-MERCER, basse (Un berger / Un médecin) · Chœur du Grand Théâtre de Genève, chœur · Mark BIGGINS, chef·fe de choeur",
+       "after": "Bernard RICHTER, ténor (Pelléas) · Jenny DAVIET, soprano (Mélisande) · Jérôme BOUTILLIER, baryton (Golaud) · Nicolas TESTÉ, basse (Arkel) · Lucile RICHARDOT, mezzo-soprano (Geneviève) · Anne-Blanche TRILLAUD RUGGERI, soprano (Yniold) · Edwin CROSSLEY-MERCER, basse (Un berger / un médecin) · Chœur du Grand Théâtre de Genève, chœur · Mark BIGGINS, chef·fe de choeur"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 05",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "enregistrement vidéo des 4 didacticiels vidéo (bois, cuivres, cordes, tutti) pour l'OSR C'est Vous ! (Fête de la Musique) : L'Italie et la Dolce Vita"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "Les listes 05 et A ne sont pas contraires - 2 services max. par musicien·ne"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Ennio MORRICONE — Cinema Paradiso, pour cordes, piano et percussions",
+       "fields": [
+        "claviers"
+       ]
+      },
+      {
+       "oeuvre": "Domenico MODUGNO — Volare, pour orchestre d'harmonie",
+       "fields": [
+        "instrumentation",
+        "percussions",
+        "claviers",
+        "note"
+       ]
+      },
+      {
+       "oeuvre": "Giacomo PUCCINI — Le Villi, La Tregenda (Danse des sorcières)",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "percussions"
+       ]
+      },
+      {
+       "oeuvre": "Nicola PIOVANI — La vita è bella, suite pour orchestre",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "percussions"
+       ]
+      },
+      {
+       "oeuvre": "Nino ROTA — Otto e mezzo, N° 6 'Passerella d'addio'",
+       "fields": [
+        "percussions"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 06",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "concert hors abonnement avec 200 places pour événement KPMG\n-avec moniteur video + time code pour chef et percussioniste dès le 2ème service\n-écran et beamer du VH\n-régie vidéo Skynight au balcon d'orgue"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste A"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "24.09-19h30 : chemise noire"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Cyrille AUFORT — Laurel et Hardy",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 07",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "3.2.2.3 / 4.2.3.1 / 1.6.1.0 / 12.10.8.6.4 (68 musiciens)",
+       "after": "3.2.2.2 / 4.2.3.1 / 1.6.1.0 / 12.10.8.6.4 (67 musiciens)"
+      },
+      {
+       "field": "duree",
+       "before": "≈ 32 min",
+       "after": "≈ 30 min"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "-les concerts scolaires sont 2 semaines après le concert famille avec un raccord de reprise\n-avec captation vidéo pour projection live de l'orchestre : 2 cameramen circulent dans l'orchestre\n-écran et beamer du VH\n-loge 18 pour régie son"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste B"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "26.09-11h00 + 12.10-14h15 + 13.10-09h15 + 13.10-14h15 + 14.10-09h15 + 15.10-09h15 : chemise noire"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Benjamin BRITTEN — The Young person's guide to the orchestra op. 34 (variations et fugue sur un thème de Purcell)",
+       "fields": [
+        "note",
+        "duree"
+       ]
+      },
+      {
+       "oeuvre": "Edward ELGAR — The Wand of Youth, suite N° 1 op.1a",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "percussions",
+        "note",
+        "duree"
+       ]
+      },
+      {
+       "oeuvre": "Edward ELGAR — The Wand of Youth, suite N° 2 op. 1b",
+       "fields": [
+        "note",
+        "duree"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 08",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "30.09-19h30 + 01.10-20h15 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Noriko KOIDE — Swaddling Silk and Gossamer Rain, pour orchestre",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      },
+      {
+       "oeuvre": "Hector BERLIOZ — Les Nuits d’été op. 7",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      },
+      {
+       "oeuvre": "Béla BARTÓK — Concerto pour orchestre",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "detail",
+        "note"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 09",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "3.3.3.3 / 4.4.3.1 / 2.6.2.1 / 15.13.11.9.7 (90 musiciens)",
+       "after": "3.3.3.3 / 4.4.3.1 / 2.3.2.1 / 15.13.11.9.7 (87 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Pas de garde-robes à Evian"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste B"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "08.10-19h30 + 10.10-20h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Kaija SAARIAHO — Mirage, pour soprano, violoncelle et orchestre",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "percussions"
+       ]
+      },
+      {
+       "oeuvre": "Jean SIBELIUS — La Fille de Pohjola, fantaisie symphonique pour grand orchestre op. 49",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      },
+      {
+       "oeuvre": "Jean SIBELIUS — Luonnotar, poème symphonique pour soprano et orchestre op. 70",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      },
+      {
+       "oeuvre": "Piotr Ilyitch TCHAÏKOVSKI — Symphonie N° 6 en si mineur op. 74, dite 'Pathétique'",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 10",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "3.2.2.3 / 4.2.3.0 / 1.3.0.0 / 12.10.8.6.4 (63 musiciens)",
+       "after": "3.2.2.3 / 4.2.3.0 / 1.3.0.0 / 12.12.10.8.5 (70 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Académie OSR-HEM (orchestre chœur et solistes)\nEffectif OSR : 1111 / 1110 / 1000 // 6.6.5.4.2\n-dispositif ONU : pupitre orateur, drapeaux...\n-loge 18 pour régie son"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "10 services max par musicien·ne"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "24.10-19h30 : OSR : tenue de concert OSR / HEM : veste noire chemise blanche\n25.10-17h00 : OSR : chemises noires / HEM : haut noir simple (T-shirts, polos...)"
+      },
+      {
+       "field": "solistes",
+       "before": "Etudiant·es du Département Vocal de la HEM, Solistes et Choeur",
+       "after": "Talia OR, soprano · Susanne SCHIMMACK, mezzo-soprano · Anicio ZORZI GIUSTINIANI, ténor · André MORSCH, baryton · Etudiant·es du Département Vocal de la HEM, chœur · Ivan THIRION, baryton (annulé / maladie)"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Ludwig van BEETHOVEN — Symphonie N° 9 en ré mineur op. 125 'avec un chœur final sur l'Ode à la joie de Schiller'",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "note"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 11",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "3.2.3.2 / 4.3.3.1 / 1.3.1.2 / 14.12.10.8.6 (78 musiciens)",
+       "after": "3.2.3.2 / 4.3.3.1 / 1.6.1.2 / 14.12.10.8.6 (81 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Cineconcert avec orchestre amplifié (1ère partie 58' / 2ème partie 44')\n-orchestre à plat avec lampes pupitres tutti\n-grand écran 16/9 + amplification de soutien : piano, solistes des cordes, bois, quelques perc. ...) avec cluster central et retour orchestre\n-régies vidéo et son en salle + 2 beamers Skynight en sas cour 2ème galerie\n-entrée des retardataires : 9'40'' après le début"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "31.10-17h00 + 01.11-20h15 : chemise noire"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Marc SHAIMAN — The Addams Family in Concert",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "percussions",
+        "claviers",
+        "detail",
+        "note"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 12",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "disposition des cordes : Maestro Gatti souhaite expérimenter avec l'OSR la disposition cordes indiquée qu'il vient de jouer avec Dresde et qu'il trouve apporter\nbeaucoup à ce répertoire. Il a de plus souhaité préserver l'effectif en réduisant les cordes pour la session Masterclasse.\n-6 étudiants HEM assistent à toutes les répétitions et dirigent l'orchestre à la session Masterclasse\n-le projet de captation TV n'a finalement pas pu être confirmé"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Ludwig van BEETHOVEN — Symphonie N° 1 en ut majeur op. 21",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      },
+      {
+       "oeuvre": "Ludwig van BEETHOVEN — Symphonie N° 4 en si bémol majeur op. 60",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      },
+      {
+       "oeuvre": "Ludwig van BEETHOVEN — Symphonie N° 5 en ut mineur op. 67",
+       "fields": [
+        "remarques"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 13",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "6 demi-finalistes du Concours",
+       "after": "Alejandro CANTALAPIEDRA"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Concours de Genève / demi-finale 3 du concours de direction (1/2 finales 1 et 2 avec les mêmes candidats les 7 et 8 novembre sans l'OSR)\nATTENTION : les 2 services de cette liste sont en public, en chemise noire et filmés/diffusés en streaming live sans aucune répétition au préalable\nLe concours de direction se déroule sur 2025 et 2026\n2025\n-printemps 25 : 24 candidats sélectionnés sur vidéo\n-1er novembre 25 : 12 candidats sélectionnés après le 1er tour avec l'orchestre de la HEM\n-3 novembre 25 : 6 demi-finalistes sélectionnés après le 2ème tour avec l'OCG\n2026\n-6 novembre 26 : arrivée des candidats - cérémonie de présentation et tirage au sort des pièces des demi-finales et de la finale\n-7 novembre 26 : demi-finale 1 avec l'OCG\n-8 novembre 26 : demi-finale 2 avec Contrechamps\n-9 novembre : demi-finale 3 avec l'OSR :\n-2 répétitions publiques de 3 heures en présence du jury pour les 6 demi-finalistes qui répètent chacun 45 minutes avec l'orchestre.\n-chacun dirige 1 mouvement de La Mer (tirage au sort du 6 novembre) et le 1er mouvement d'un des 2 concertos de Schumann avec soliste.\n-chaque demi-finaliste gère son temps librement mais commence par La Mer et fini par le concerto\n-les 6 demi-finalistes sont connus le 3 novembre 2025 et tirent au sort les pièces à choix le 6 novembre 2026\n-les 2 services sont présentés en direct, filmés et diffusés en streaming live (Medici, RTS...)\n-les 3 finalistes sont connus à l'issue des délibérations qui suivent le 2ème service (pas de proclamation publique)"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "09.11-14h30 + 09.11-19h30 : chemise noire"
+      },
+      {
+       "field": "solistes",
+       "before": "Kevin CHEN, piano · Michiaki UENO, violoncelle",
+       "after": "Michiaki UENO, violoncelle · Kevin CHEN, piano"
+      }
+     ],
+     "worksAdded": [
+      "Robert SCHUMANN — Chaque candidat répète 1 mouvement tiré au hasard. Chaque mouvement sera donc joué 2 fois au cours de la journée. Concerto pour violoncelle et orchestre en la mineur op. 129"
+     ],
+     "worksRemoved": [
+      "Robert SCHUMANN — Concerto pour violoncelle et orchestre en la mineur op. 129"
+     ],
+     "worksModified": [
+      {
+       "oeuvre": "Claude DEBUSSY — La Mer, trois esquisses symphoniques pour orchestre",
+       "fields": [
+        "claviers",
+        "duree"
+       ]
+      },
+      {
+       "oeuvre": "Robert SCHUMANN — Concerto pour piano et orchestre en la mineur op. 54",
+       "fields": [
+        "claviers",
+        "note",
+        "duree"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 14",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "Finaliste 1 du concours",
+       "after": "Alejandro CANTALAPIEDRA"
+      },
+      {
+       "field": "effectif",
+       "before": "3.3.3.3 / 4.3.3.1 / 1.3.1.1 / 12.10.8.6.4 (69 musiciens)",
+       "after": "3.3.3.3 / 4.3.3.1 / 1.3.1.2 / 12.10.8.6.4 (70 musiciens)"
+      },
+      {
+       "field": "duree",
+       "before": "≈ 54 min",
+       "after": "≈ 50 min"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Concours de Genève / Finale 1 du concours de direction et Finale du concours de de composition\n-les 3 finalistes du concours de direction sont connus après la 1/2 finale 3 du 9 novembre avec l'OSR\n-chacun répète 2 fois 50 minutes et la générale avec l'orchestre en présence du jury\n-chacun dirige l'une des 3 œuvres finalistes du concours de composition (15' env.) qu'il aura tiré au sort lors de la Cérémonie d'ouverture le 6 novembre. La durée du concert est au plus\nde 1h15 + 2 pauses de 15 minutes + les présentations\n-les 3 pièces finalistes et leur instrumentation sont connues fin mars 2025 et les partitions prêtes au plus tard fin septembre 2025 (réalisées par le Concours de Genève)\n-le jury du concours de direction (président : Bertrand de Billy) assiste aux répétitions.\n-les compositeurs finalistes assistent aux répétitions de leur pièce\n-le concert est suivi des délibérations et de la proclamation des résultats du concours de composition (présidente : Unsuk Chin)"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "11.11-19h00 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [
+      "Rafael MARINO-ARCARO — Invention in langage of child, for orchestra op.22",
+      "Sing-Yat CHEN — Shattered sky / Remaining land",
+      "Hanurij LEE — Stuff #1, for large orchestra"
+     ],
+     "worksRemoved": [
+      "FINALISTE 1 DU CONCOURS — Pièce1 finaliste du Concours de Genève de composition 2026",
+      "FINALISTE 2 DU CONCOURS — Pièce2 finaliste du Concours de Genève de composition 2026",
+      "FINALISTE 3 DU CONCOURS — Pièce3 finaliste du Concours de Genève de composition 2026"
+     ],
+     "worksModified": [
+      {
+       "oeuvre": "Ludwig van BEETHOVEN — Egmont, ouverture en fa mineur op. 84",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 15",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "Finalistes du concours",
+       "after": "Alejandro CANTALAPIEDRA"
+      },
+      {
+       "field": "effectif",
+       "before": "4.3.3.4 / 4.3.3.1 / 1.5.2.3 / 14.12.10.8.6 (86 musiciens)",
+       "after": "3.3.3.3 / 4.3.3.1 / 1.5.1.3 / 14.12.10.8.6 (83 musiciens)"
+      },
+      {
+       "field": "duree",
+       "before": "≈ 2 h 37",
+       "after": "≈ 1 h 55"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Concours de Genève / Finale 2 du concours de direction\n-les 3 finalistes sont connus après la 1/2 finale 3 du 9 novembre\n-chacun répète 2 sessions de 50 minutes et 1 générale en présence du jury\n-chacun dirige 1 pièce au choix tirée au sort lors de la Cérémonie d'ouverture du 6 novembre dans la liste ci-dessous et parmi les 2 qu'il a préparées. La durée du concert est au plus de 1h\n+ 2 pauses de 15 minutes + les présentations.\n-le concert est suivi des délibérations et de la proclamation des résultats du concours de direction\nChoix des candidats :\n-Alejandro Cantalapiedra : Mahler ou Stravinski\n-Jakobus De Jager : Bartok ou Prokofiev (2.1 > 1.6 > 1.7 > 2.7)\n-Gabriel Pernet : Mahler ou Stravinski\n-Simon Schmied : Strauss ou Stravinski\n-Mats Thiersch : Mahler ou Strauss\n-Leonard Weiss : Stravinski ou Prokofiev (2.1 > 2.2 > 2.5 avec coupure > 1.7 attaca > 2.5 avec coupure > 2.7)\n-vote de l'effectif après le concert pour décerner le Prix des Musiciens de l'OSR"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "13.11-19h00 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 1, N° 6 Scène du balcon",
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 1, N° 7 Mort de Tybalt",
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 2, N° 1 Montaigus et Capulets",
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 2, N° 2 Juliette enfant",
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 2, N° 5 Avant la séparation",
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 2, N° 7 Roméo sur la tombe de Juliette"
+     ],
+     "worksRemoved": [
+      "Claude DEBUSSY — Images pour orchestre, N° 2 Ibéria",
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 1",
+      "Serge PROKOFIEV — Roméo et Juliette, suite de ballet N° 2"
+     ],
+     "worksModified": [
+      {
+       "oeuvre": "Igor STRAVINSKI — L’Oiseau de feu, deuxième suite d'orchestre (1919)",
+       "fields": [
+        "claviers"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 16",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Centenaire du Motet le 19 novembre (production Le Motet) : opéra complet en version concert\nreprise en extraits pour FAM+ (production OSR) le 20 novembre avec le chœur et uniquement Abigaille\n-finalement sans avant-scène\n-avec régie son en loge 18 pour concert du 20 novembre\n-avec caméras en salle (4 places en 1ère galerie face-jardin)\n-avec sous-titrage le 19 novembre uniquement (écran+beamer VH)\nChoeur Le Motet : 85 env. (sans pupitre)\nDistribution : Le Motet\nAbigaille : Maria Jose SIRI\nNabucco : Nikoloz LAGVILAVA\nIsmaele : Sahy RATIA,\nFenena : Carine SÉCHAYE\nZaccaria : Rubén AMORETTI\nGran Sacerdote : Joe BERTILI\nAbdallo: Oscar ESMERODE\nAnna : Clémence TILQUIN"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "19.11-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies\n20.11-19h00 : chemise noire"
+      },
+      {
+       "field": "solistes",
+       "before": "Maria Jose SIRI, soprano (tous les concerts) · Le Motet de Genève, chœur (et tutti solistes le 19 nov.)",
+       "after": "Maria Jose SIRI, soprano · Le Motet de Genève, chœur (et tutti solistes le 19 nov.)"
+      }
+     ],
+     "worksAdded": [
+      "Giuseppe VERDI — Geoffroy PERRUCHOUD, présentation (concert Famille, uniquement le 20 nov.) Nabucco, opéra en quatre parties"
+     ],
+     "worksRemoved": [
+      "Giuseppe VERDI — Nabucco, opéra en quatre parties"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 17",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "-dispositif cordes Gatti particulier pour Beethoven\n-accord chef pour ouverture du podium choeur si nécéssaire\n-les jeunes chefs Talent Norge assistent à toutes les répétitions et dirigent l'orchestre à la session Masterclasse"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "25.11-19h30 + 26.11-19h30 + 27.11-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Ludwig van BEETHOVEN — Symphonie N° 2 en ré majeur op. 36",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      },
+      {
+       "oeuvre": "Ludwig van BEETHOVEN — Symphonie N° 3 en mi bémol majeur op. 55, dite 'Héroïque'",
+       "fields": [
+        "remarques"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 18",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "3.3.3.2 / 4.3.3.1 / 1.4.2.1 / 16.14.12.10.8 (90 musiciens)",
+       "after": "3.3.3.2 / 4.3.3.1 / 1.4.2.1 / 20.20.8.14.6 (98 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "avec Orchestre du Collège de Genève\n-effectif OSR pour les 2 séances de coaching : 1111 / 1111 / 1010 // 1.1.1.1.1\n-effectif OSR pour les répétitions tutti et le concert : 12*11 / 1111 / 1010 // 4.4.4.2.4\n-effectif Orch.du Collège: 4*.3.3*.2 / 3.3.4.0 / 0.4.3.2 // 17.17.4.12.2\n-effectif chaises : 5.5.4.3 / 4.4.5.1 / 1.5.2.1 // 20.20.8.14.6 (3 harpistes étudiants + 1 harpiste coach = 2 instruments)"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire liste C"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "05.12-11h00 : OSR : chemises noires / Collège : haut de couleur simple (T-shirts, polos...)"
+      }
+     ],
+     "worksAdded": [
+      "Vladimir COSMA — Orchestre du Collège de Genève et OSR, orchestre 'Eh bien ! dansez maintenant', divertissement d'après les fables de La Fontaine (commande osr)"
+     ],
+     "worksRemoved": [
+      "Vladimir COSMA — 'Eh bien ! dansez maintenant', divertissement d'après les fables de La Fontaine (commande osr)"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 19",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Captation audiovisuelle confirmée RTS / Mezzo par Ozango, en direct Espace 2 et Mezzo"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste C"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "16.12-10h00 + 17.12-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Igor STRAVINSKI — Pulcinella, suite pour orchestre",
+       "fields": [
+        "detail"
+       ]
+      },
+      {
+       "oeuvre": "Johannes BRAHMS — Symphonie N° 4 en mi mineur op. 98",
+       "fields": [
+        "remarques"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 20",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "NN1",
+       "after": "Alexandre MASTRANGELO"
+      },
+      {
+       "field": "duree",
+       "before": "",
+       "after": "≈ 1 h 35"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "A White Christmas with Matt Dusk (sans présentateur)\n-avec amplification du soliste et des 6 choristes mais pas de l'orchestre (micros rétros sur pied)\n-projet de captation TV en construction\n-décoration florale en scène"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste C"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "22.12-09h15 + 23.12-09h15 : chemise noire\n22.12-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      },
+      {
+       "field": "solistes",
+       "before": "Matt DUSK, jazz vocalist · NN1, choriste gospel alto · NN2, choriste gospel soprano · NN3, choriste gospel ténor",
+       "after": "Matt DUSK, jazz vocalist"
+      }
+     ],
+     "worksAdded": [
+      "[DIVERS COMPOSITEURS] — Sylvie KLIJN, choriste ([leader]) NN2, choriste NN3, choriste NN4, choriste NN5, choriste NN6, choriste Christmas Songs Matt Dusk"
+     ],
+     "worksRemoved": [
+      "[DIVERS COMPOSITEURS] — Christmas Songs Matt Dusk"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 21",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "3.3.3.3 / 4.3.4.1 / 1.4.1.0 / 12.10.8.6.4 (70 musiciens)",
+       "after": "3.3.3.4 / 4.4.4.1 / 1.4.2.0 / 12.10.8.6.4 (73 musiciens)"
+      },
+      {
+       "field": "duree",
+       "before": "≈ 1 h 36",
+       "after": "≈ 1 h 52"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Concert de l'An\n-avec décoration florale\n-avec discours en scène"
+      }
+     ],
+     "worksAdded": [
+      "Giuseppe VERDI — La Forza del Destino, Ouverture",
+      "Giuseppe VERDI — Otello, Ballabili (ballet acte III)",
+      "Giacomo PUCCINI — Preludio Sinfonico",
+      "Georges BIZET — Carmen, Suite N° 1, N° 1 Prélude [avec l'Aragonaise]",
+      "Georges BIZET — Carmen, Habanera Acte I N°4, Air de Carmen \"L'amour est un oiseau rebelle...\"",
+      "Bedrich SMETANA — La Fiancée vendue, ouverture",
+      "Nikolaï RIMSKI-KORSAKOV — La Fiancée du tsar, scène et air de Martha acte 4 \"Ach, schau doch da\"\"",
+      "Richard STRAUSS — Intermezzo, Träumerei am Kamin, Interlude symphonique N° 2",
+      "Jules MASSENET — Le Cid, suite de ballet, N° 1 Castillane"
+     ],
+     "worksRemoved": [
+      "N.N. — Programme standard en construction",
+      "Georges BIZET — Carmen, suite N° 2, N° 2 Habanera",
+      "Nikolaï RIMSKI-KORSAKOV — La Fiancée du tsar, scène et air de Martha acte 4 \"Ach, schau mal doch\"\""
+     ],
+     "worksModified": [
+      {
+       "oeuvre": "Giuseppe VERDI — Otello, Air de Desdémone acte 4 \"Ave Maria\"",
+       "fields": [
+        "instrumentation"
+       ]
+      },
+      {
+       "oeuvre": "Giacomo PUCCINI — Madame Butterfly, air de Cio-Cio San acte 2 'Un bel di vedremo...'",
+       "fields": [
+        "remarques",
+        "detail"
+       ]
+      },
+      {
+       "oeuvre": "Giacomo PUCCINI — Armenian Folk Song",
+       "fields": [
+        "instrumentation",
+        "remarques",
+        "note"
+       ]
+      },
+      {
+       "oeuvre": "Gianni Schicchi, Air de Lauretta \"O mio babbino caro...\"",
+       "fields": [
+        "note"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 23",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "20.01-19h30 + 21.01-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 24",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "ATTENTION : au BFM dans la production GT de Theodora avec la fosse baissée (ok pour passer et stocker 2 pianos)"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste D - La Liste 24 est reprise Liste 37 avec le même effectif"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 24b",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "",
+       "after": "Philippe BÉRAN"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Coaching OSR c'est vous avec OSR = 1111 / 1110 / 1000 / 1.1.1.1.1"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire liste D - 2 services max. par musicien·ne"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 25",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire liste 26"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 26",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "L'OSR C'est Vous ! Coaching 2\n2 partielles par registre et 1 tutti\neffectif osr : 1111 / 1110 / 1000 // 1.1.1.1.1"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 25 - 2 services max. par musicien·nes"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 27",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Dispositif spécial cordes Gatti pour Beethoven"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "10.03-19h30 + 12.03-19h30 + 15.03-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 27b",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste27"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 28",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire liste 28b"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "24.03-19h30 + 25.03-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      },
+      {
+       "field": "solistes",
+       "before": "Fleur BARRON, mezzo-soprano · Andrew STAPLES, ténor · NN1, baryton",
+       "after": "Andrew STAPLES, ténor · Fleur BARRON, mezzo-soprano · Jean-Sébastien BOU, baryton"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 28b",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Coaching 3 OSR c'est vous\n1 partielle bois - 1 partielle cuivres - 1 partielle v1 - 1 partielle v2 - 1 partielle altos - 1 partielle cellos - 1 partielle cb - sans percu, ni hrp, ni claviers\n1 tutti\neffectif OSR = 1111 / 1010 / 1000 // 4.3.2.2.2 max."
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 28"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 29",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Mozart : Ouverture Noces Figaro (4’)\nC. Saint-Saens Concerto pour violoncelle et orchestre N° 1(20’)F. Mendelssohn A Midsummer Night’s Dream Scherzo (5)’Alma Deutscher (Jeune compositrice prodige britannique de 21\nans) Grinzinger Polka (2021, 2’)"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste F"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 30",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "3.2.2.4 / 4.4.3.1 / 1.4.1.0 / 15.12.10.8.6 (80 musiciens)",
+       "after": "3.2.2.4 / 4.4.3.1 / 1.4.1.0 / 15.13.11.9.7 (84 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "ATTENTION : Effectif Berlioz+Tchaïkovski strictement identique pour Liste 42 avec Montpellier et La Chaux de Fonds\nprojet de captation AV en construction avec RTS / Mezzo / Ozango"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Piotr Ilyitch TCHAÏKOVSKI — Le Lac des cygnes, suite (assemblée par Tugan Sokhiev)",
+       "fields": [
+        "instrumentation",
+        "remarques"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 31",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "duree",
+       "before": "≈ 1 h 59",
+       "after": "≈ 2 h 24"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "projet de captation audiovisuelle RTS / Arte (jean-PIerre Loisil)\navec cordes limitées à Berne : 14.12.10.8.6\nAttention : Casino Bern est le nouveau nom du Kultur-Casino Bern"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "28.04-19h30 + 29.04-19h30 + 30.04-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 32",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "12.05-19h30 + 13.05-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 34",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "Ludwig Wicki",
+       "after": "Ludwig WICKI"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Harry Potter and the Sorcerer's Stone à l'Arena avec Opus One (2ème et 3ème épisodes en 2028 et 2029)"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "21.05-19h30 + 22.05-14h00 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [
+      "John WILLIAMS — Harry Potter à l'Ecole des Sorciers en concert"
+     ],
+     "worksRemoved": [
+      "John WILLIAMS — Harry Potter and the Sorcerer's Stone, movie with live orchestra"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 35",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "chef ok pour 15h-19h le 1er jour si Comité ok\nhoraires NODA confirmés le 22.01.26"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 36 et Liste 37"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "26.05-19h30 + 27.05-20h15 + 28.05-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 36",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "1 service de Masterclasse de direction pour étudiants Talent Norge"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 35"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 37",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "-avec régie son en loge 18"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire liste 35 - la Liste 37 est reprise de la Liste 24 avec le même effectif"
+      },
+      {
+       "field": "solistes",
+       "before": "Anne-Claire REY-BELLET, récitant (récit et animation)",
+       "after": "Anne-Claire REY-BELLET, récitant"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 38",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "NN1",
+       "after": "Michael SANDERLING"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Gala anniversaire Fédération Mondiale des Concours Internationaux de Musique, avec le soutien du Concours de Genève\nProduction FMCIM\nChef confirmé : Michael Sanderling\nModérateur : Daniel Hope\nsolistes confirmés :anicens lauréats"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 39"
+      },
+      {
+       "field": "solistes",
+       "before": "Lim YUNCHAN, piano",
+       "after": ""
+      }
+     ],
+     "worksAdded": [
+      "N.N. — Daniel Hope, modération Programme 1 à définir"
+     ],
+     "worksRemoved": [
+      "N.N. — Programme 1 à définir"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 39",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "effetif OSR : 1111 / 1110 / 1000 // 6.6.5.4.4 max."
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraires G-39-40 : seuls sont possibles 39+40 ou 39+G ou 40+G - 5 services max. par musicien·nes"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 40",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Concert Jeune Public / Fête de la Musique\n-effectif OSR : 1111 / 1111 / 1201 / 2.2.2.2.2\n-élèves des orchestres en classes cordes et vents du DIP : 3 classes pour N° 1 et 2 et 3 classes pour n° 3 et 4\n-120-130 choristes des écoles de musique (CPMdT, IJD et CMG) + 2 classes du DIP. Le choeur est sonorisé.\nOrdre du concert :\n-Tchouka\n-Le Petit Tailleur tableaux I à III\n-changement d'orchestres en classe\n-Le Petit Tailleur tableaux IV à VI\n-Djia"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraires G-39-40 : seuls sont possibles 39+40 ou 39+G ou 40+G"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Etienne PERRUCHON — Le petit Tailleur, cantate pour chœur d'enfants et orchestre",
+       "fields": [
+        "percussions"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste 41",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "NN1",
+       "after": "Tugan SOKHIEV"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "30.06-21h30 : tenue d'été OSR"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste 42",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "NN1",
+       "after": "Tugan SOKHIEV"
+      },
+      {
+       "field": "effectif",
+       "before": "4.4.4.4 / 8.5.4.1 / 1.4.1.1 / 16.14.12.10.8 (101 musiciens)",
+       "after": "3.2.2.4 / 4.4.3.1 / 1.4.1.0 / 0.0.0.0.0 (29 musiciens)"
+      },
+      {
+       "field": "duree",
+       "before": "",
+       "after": "≈ 2 h 37"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Festival Montpellier\nGale matin sur place confirmée le 27.08.26 au téléphone (SR)\nAttention :\n-effectif Carnaval romain + Lac des Cygnes strictement identique à la Liste 30\n-effectif concerto Rachmaninov le plus possible identique à la Liste 31"
+      },
+      {
+       "field": "solistes",
+       "before": "",
+       "after": "Alexandre KANTOROW, piano (à Montpellier) · Nelson GOERNER, piano (à La Chaux de Fonds)"
+      }
+     ],
+     "worksAdded": [
+      "Hector BERLIOZ — Carnaval romain, ouverture caractéristique op. 9",
+      "Ludwig van BEETHOVEN — Concerto pour piano et orchestre N° 5 en mi bémol majeur op. 73, dit \"L'Empereur\"",
+      "Sergeï RACHMANINOFF — Concerto pour piano et orchestre N° 3 en ré mineur op. 30",
+      "Piotr Ilyitch TCHAÏKOVSKI — Le Lac des cygnes, suite (assemblée par Tugan Sokhiev)"
+     ],
+     "worksRemoved": [
+      "PIÈCE(S) À DÉFINIR — en construction"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste A",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "4.3.3.3 / 6.4.3.1 / 1.6.2.3 / 12.10.8.7.5 (81 musiciens)",
+       "after": "3.3.3.3 / 4.3.3.1 / 1.6.2.3 / 12.10.8.7.5 (77 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "captation vidéo en construction : Bel Air Media pour Mezzo et Opera Vision (en cours Alain Perroux)"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 06. Les listes 05 et A ne sont pas contraires."
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "16.09-19h30 + 18.09-19h30 + 20.09-15h00 + 22.09-19h30 + 24.09-19h30 + 26.09-19h30 : chemise noire"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Frank MARTIN — La Tempête, opéra en trois actes et un épilogue",
+       "fields": [
+        "instrumentation",
+        "percussions",
+        "detail"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste B",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "0.2.0.0 / 2.3.2.0 / 1.0.0.0 / 3.3.3.4.3 (26 musiciens)",
+       "after": "0.1.0.0 / 2.3.2.0 / 0.1.0.0 / 3.3.3.4.3 (25 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "production Barrie KOSKY\nmusical avec sonorisation (orchestre et chanteurs)\n-A la charge du GT : 1 supplément ob1 jouant le ca, 1 tuttiste cello et 7 extra en fosse et faisant partie de la production avec leurs instruments (4 reeds, 1 batterie. 1 synthé et 1 guitare)\n-A la charge OSR : 0100 / 2320 / 1000 // 3.3.3.3.3\n-2 lectures de 3h au lieu de 3 de 2.5h (vu GT 31.10.25)"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 07 et Liste 09"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Stephen SONDHEIM — Company",
+       "fields": [
+        "instrumentation",
+        "percussions"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste C",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "-projet de captation vidéo Les Noces sous les Etoiles\n-durée de la soirée certifiée inférieure à 4h par le GT (3h45 prév.)\n-pas de demande de cors ni trompettes naturelles (vérif.27.08.26)"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 18 et Liste 19 et Liste 20"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Wolfgang Amadeus MOZART — Les Noces de Figaro, Opera buffa en 4 actes KV 492",
+       "fields": [
+        "instrumentation",
+        "note"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste D",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "PRODUCTION AU VH EN SEMI-STAGE\néventuellement en 4 lectures au lieu de 5 (en attente GT le 28.05.26)\n-attention solo harpe"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Listes 24 et 24b"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "06.02-19h30 + 08.02-19h30 + 10.02-19h30 + 12.02-19h30 + 14.02-15h00 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste E",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "chef",
+       "before": "Antonino FOGLIANI",
+       "after": "N.N."
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "-Version réduite Ettore Panizza\n-En attente de la nomination du chef suite au décès d'Antonino Fogliani le 29 août 2026"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Liste F",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "-1 ballet unique sans entracte\n-orchestre en fosse, piano et voix en scène (sonorisées)\n-souhait compositeur / piano solo : piano Yamaha et non S&S (sauf en répétition)\n-livraison des partitions au GT : 4 décembre 26 (contrat)\n-rdv coup d'archet : a placer autour du 16 février\n-présence à Genève du compositeur : septembre, 16-19 février et depuis début mars"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraire Liste 29"
+      },
+      {
+       "field": "solistes",
+       "before": "Dimitris SKYLLAS, piano · ALKANNA GRAECA, 3 voix féminines grecques",
+       "after": ""
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Dimitris SKYLLAS — Dimmokratîa",
+       "fields": [
+        "percussions"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Liste G",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "VERSION CONCERT OU SEMI STAGE AU VH"
+      },
+      {
+       "field": "contraires",
+       "before": "",
+       "after": "contraires G-39-40 : seuls sont possibles 39+40 ou 39+G ou 40+G"
+      },
+      {
+       "field": "tenue",
+       "before": "",
+       "after": "24.06-19h30 + 25.06-19h30 : Hommes : costume OSR & chaussures vernies / Femmes : tenue de soirée noire & chaussures vernies"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Musique De Chambre 1",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Musique de chambre : concert au cachet / sans régie OSR / sans bibliothèque OSR / répétitions à construire par le groupe\n-responsable du groupe : Ivy Wong\n-10h30 : ouverture des portes\n-régie SFL"
+      },
+      {
+       "field": "solistes",
+       "before": "Simon SOMMERHALDER, hautbois · Clément CHARPENTIER-LEROY, cor · Agnès CHOPIN, cor · Yin SHEN, violon · Yuwen ZHU, violon · Marco NIRTA, alto · Gabriel ESTEBAN, violoncelle · Ivy WONG, contrebasse",
+       "after": ""
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Musique De Chambre 2",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "0.0.0.0 / 0.0.0.0 / 0.0.0.0 / 1.1.1.1.0 (4 musiciens)",
+       "after": "0.0.0.0 / 0.0.0.0 / 0.0.0.1 / 1.1.1.1.0 (5 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "-Mention obligatoire : les partitions des oeuvres de Rita Strohl ont été éditées et mises à disposition par le Palazzetto Bru Zane - Centre de musique romantique\nfrançaise\n-Musique de chambre : concert au cachet / sans régie OSR / sans bibliothèque OSR / répétitions à construire par le groupe\n-responsable du groupe : Caroline Bariswyl\n-Yuwen ZHU remplace Yumi KUBO arrêt maladie\n-10h30 : ouverture des portes\n-régie SFL"
+      },
+      {
+       "field": "solistes",
+       "before": "Caroline BAERISWYL, violon 1 · Yumi KUBO, violon 2 · Verena SCHWEIZER, alto · Yao JIN, violoncelle · Meglena TZANEVA DUPRAZ, piano",
+       "after": "Caroline BAERISWYL, violon 1 · Yuwen ZHU, violon 2 · Verena SCHWEIZER, alto · Yao JIN, violoncelle · Meglena TZANEVA DUPRAZ, piano"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Rita STROHL — Quatuor pour deux violons, alto et violoncelle [1885]",
+       "fields": [
+        "instrumentation"
+       ]
+      },
+      {
+       "oeuvre": "Rita STROHL — Grande Fantaisie-Quintette pour piano, deux violons, alto et violoncelle [1886]",
+       "fields": [
+        "instrumentation"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Musique De Chambre 3",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Musique de chambre : concert au cachet / sans régie OSR / sans bibliothèque OSR / répétitions à construire par le groupe\n-responsable du groupe : Elçim Özdemir\n-10h30 : ouverture des portes\n-régie SFL"
+      },
+      {
+       "field": "solistes",
+       "before": "Roman FILIPOV, violon 1 · Sidonie BOUGAMONT, violon 2 · Elçim ÖZDEMIR, alto · Frédéric KIRCH, alto · Lionel COTTET, violoncelle",
+       "after": ""
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Musique De Chambre 4",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "info",
+       "before": "",
+       "after": "Musique de chambre : concert au cachet / sans régie OSR / sans bibliothèque OSR / répétitions à construire par le groupe\n-responsable du groupe : Lucas Henry\n-10h30 : ouverture des portes\n-régie SFL"
+      },
+      {
+       "field": "solistes",
+       "before": "Cristian ZIMMERMAN, violon 1 · Guillaume JACOT, violon 2 · Luca CASCIATO, alto · Lucas HENRY, violoncelle",
+       "after": "Leonid BARANOV, violon 1 · Cristian ZIMMERMAN, violon 2 · Jarita NG, alto · Lucas HENRY, violoncelle"
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": []
+    },
+    {
+     "liste": "Musique De Chambre 5",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "2.0.0.0 / 0.0.0.0 / 0.0.0.0 / 1.1.1.1.0 (6 musiciens)",
+       "after": "2.0.0.0 / 0.0.0.0 / 0.0.0.1 / 1.1.1.1.0 (7 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Musique de chambre : concert au cachet / sans régie OSR / sans bibliothèque OSR / répétitions à construire par le groupe\n-responsable du groupe : Sarah Rumer\n-10h30 : ouverture des portes\n-régie SFL"
+      },
+      {
+       "field": "solistes",
+       "before": "Sarah RUMER, flûte · Jona VENTURI, flûte · Audrey VIGOUREUX, piano · Yumiko AWANO, violon 1 · Eleonora RYNDINA, violon 2 · Theresa HOŘEJŠÍ, alto · Léonard FREY-MAIBACH, violoncelle",
+       "after": ""
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [],
+     "worksModified": [
+      {
+       "oeuvre": "Mel BONIS — Suite en trio pour deux flûtes et piano op. 59",
+       "fields": [
+        "instrumentation",
+        "claviers"
+       ]
+      },
+      {
+       "oeuvre": "Mel BONIS — Fantaisie en septuor pour deux flûtes, piano et quatuor à cordes op. 72",
+       "fields": [
+        "instrumentation"
+       ]
+      }
+     ]
+    },
+    {
+     "liste": "Musique De Chambre 6",
+     "status": "modified",
+     "fields": [
+      {
+       "field": "effectif",
+       "before": "",
+       "after": "0.0.0.0 / 0.0.4.1 / 0.0.0.0 / 0.0.0.0.0 (5 musiciens)"
+      },
+      {
+       "field": "info",
+       "before": "",
+       "after": "Musique de chambre : concert au cachet / sans régie OSR / sans bibliothèque OSR / répétitions à construire par le groupe\n-responsable du groupe : Andrea Bandini\n-10h30 : ouverture des portes\n-régie SFL"
+      },
+      {
+       "field": "solistes",
+       "before": "Alexandre FAURE, trombone · Matteo DE LUCA, trombone · Vincent MÉTRAILLER, trombone · Andrea BANDINI, trombone · Ross KNIGHT, tuba",
+       "after": ""
+      }
+     ],
+     "worksAdded": [],
+     "worksRemoved": [
+      "Quintette de cuivres en liberté : transcriptions de Leonard Bernstein, Dimitri Chostakovitch, Øystein Baadsvik, Giuseppe Verdi, John Williams ... [saison 2627]"
+     ],
+     "worksModified": []
+    },
+    {
+     "liste": "Projet 01",
+     "status": "added"
+    }
+   ]
+  },
+  {
+   "at": "2026-07-03T14:34:25.134Z",
+   "added": [
+    {
+     "uid": "osr225046",
+     "start": "2026-08-11T10:00",
+     "end": "2026-08-11T12:30",
+     "liste": "Liste 01",
+     "activity": "répétition",
+     "category": "repetition",
+     "location": "UM - Salle Marie LAGGÉ",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr224799",
+     "start": "2026-08-12T09:15",
+     "end": "2026-08-12T09:45",
+     "liste": "Liste 01",
+     "activity": "rencontre chef-soliste(s)",
+     "category": "repetition",
+     "location": "UM - Salle Marie LAGGÉ",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr224800",
+     "start": "2026-08-12T10:00",
+     "end": "2026-08-12T12:30",
+     "liste": "Liste 01",
+     "activity": "répétition avec soliste",
+     "category": "repetition",
+     "location": "UM - Salle Marie LAGGÉ",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr224803",
+     "start": "2026-08-13T10:00",
+     "end": "2026-08-13T13:00",
+     "liste": "Liste 01",
+     "activity": "générale non publique (+ balance amplification)",
+     "category": "generale",
+     "location": "Genève-Plage (scène mobile)",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr224805",
+     "start": "2026-08-13T19:15",
+     "end": "2026-08-13T20:15",
+     "liste": "Liste 01",
+     "activity": "raccord (+balance)",
+     "category": "generale",
+     "location": "Genève-Plage (scène mobile)",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr224807",
+     "start": "2026-08-13T21:15",
+     "end": "2026-08-13T23:00",
+     "liste": "Liste 01",
+     "activity": "concert",
+     "category": "concert",
+     "location": "Genève-Plage (scène mobile)",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr225312",
+     "start": "2026-10-20T10:00",
+     "end": "2026-10-20T12:30",
+     "liste": "Liste 10",
+     "activity": "musicale choeur",
+     "category": "repetition",
+     "location": "à définir HEM",
+     "project": "ONU",
+     "cancelled": false
+    },
+    {
+     "uid": "osr225315",
+     "start": "2026-10-21T14:30",
+     "end": "2026-10-21T17:00",
+     "liste": "Liste 10",
+     "activity": "musicale choeur",
+     "category": "repetition",
+     "location": "Victoria Hall de Genève",
+     "project": "ONU",
+     "cancelled": false
+    },
+    {
+     "uid": "osr225318",
+     "start": "2026-10-22T18:00",
+     "end": "2026-10-22T20:00",
+     "liste": "Liste 10",
+     "activity": "soliste(s) seul(s)",
+     "category": "autre",
+     "location": "Victoria Hall de Genève",
+     "project": "ONU",
+     "cancelled": false
+    }
+   ],
+   "removed": [
+    {
+     "uid": "osr162098",
+     "start": "2026-08-11T10:00",
+     "end": "2026-08-11T12:30",
+     "liste": "Liste 01",
+     "activity": "répétition",
+     "category": "repetition",
+     "location": "UM - Salle Marie LAGGÉ",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr214246",
+     "start": "2026-08-12T09:15",
+     "end": "2026-08-12T09:45",
+     "liste": "Liste 01",
+     "activity": "rencontre chef-soliste(s)",
+     "category": "repetition",
+     "location": "UM - Salle Marie LAGGÉ",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr162100",
+     "start": "2026-08-12T10:00",
+     "end": "2026-08-12T12:30",
+     "liste": "Liste 01",
+     "activity": "répétition avec soliste",
+     "category": "repetition",
+     "location": "UM - Salle Marie LAGGÉ",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr162099",
+     "start": "2026-08-13T10:00",
+     "end": "2026-08-13T13:00",
+     "liste": "Liste 01",
+     "activity": "générale non publique (+ balance amplification)",
+     "category": "generale",
+     "location": "Genève-Plage (scène mobile)",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr162101",
+     "start": "2026-08-13T19:15",
+     "end": "2026-08-13T20:15",
+     "liste": "Liste 01",
+     "activity": "raccord (+balance)",
+     "category": "generale",
+     "location": "Genève-Plage (scène mobile)",
+     "project": "OGP1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr162097",
+     "start": "2026-08-13T21:15",
+     "end": "2026-08-13T23:00",
+     "liste": "Liste 01",
+     "activity": "concert",
+     "category": "concert",
+     "location": "Genève-Plage (scène mobile)",
+     "project": "OGP1",
+     "cancelled": false
+    }
+   ],
+   "modified": [
+    {
+     "uid": "osr132805",
+     "fields": [
+      "activity"
+     ],
+     "before": {
+      "uid": "osr132805",
+      "start": "2026-10-22T14:30",
+      "end": "2026-10-22T17:00",
+      "liste": "Liste 10",
+      "activity": "répétition",
+      "category": "repetition",
+      "location": "Victoria Hall de Genève",
+      "project": "ONU",
+      "cancelled": false
+     },
+     "after": {
+      "uid": "osr132805",
+      "start": "2026-10-22T14:30",
+      "end": "2026-10-22T17:00",
+      "liste": "Liste 10",
+      "activity": "répétition avec choeurs",
+      "category": "repetition",
+      "location": "Victoria Hall de Genève",
+      "project": "ONU",
+      "cancelled": false
+     }
+    },
+    {
+     "uid": "osr132806",
+     "fields": [
+      "activity"
+     ],
+     "before": {
+      "uid": "osr132806",
+      "start": "2026-10-23T10:00",
+      "end": "2026-10-23T12:30",
+      "liste": "Liste 10",
+      "activity": "répétition",
+      "category": "repetition",
+      "location": "Victoria Hall de Genève",
+      "project": "ONU",
+      "cancelled": false
+     },
+     "after": {
+      "uid": "osr132806",
+      "start": "2026-10-23T10:00",
+      "end": "2026-10-23T12:30",
+      "liste": "Liste 10",
+      "activity": "répétition avec soliste(s) et choeurs",
+      "category": "repetition",
+      "location": "Victoria Hall de Genève",
+      "project": "ONU",
+      "cancelled": false
+     }
+    },
+    {
+     "uid": "osr220676",
+     "fields": [
+      "start",
+      "end"
+     ],
+     "before": {
+      "uid": "osr220676",
+      "start": "2027-03-22T18:30",
+      "end": "2027-03-22T20:30",
+      "liste": "Liste 28b",
+      "activity": "partielle (violons 1)",
+      "category": "repetition",
+      "location": "Centre Saint Boniface, Salle Rosa Parks",
+      "project": "",
+      "cancelled": false
+     },
+     "after": {
+      "uid": "osr220676",
+      "start": "2027-03-22T18:00",
+      "end": "2027-03-22T20:00",
+      "liste": "Liste 28b",
+      "activity": "partielle (violons 1)",
+      "category": "repetition",
+      "location": "Centre Saint Boniface, Salle Rosa Parks",
+      "project": "",
+      "cancelled": false
+     }
+    },
+    {
+     "uid": "osr220682",
+     "fields": [
+      "start",
+      "end"
+     ],
+     "before": {
+      "uid": "osr220682",
+      "start": "2027-03-22T20:45",
+      "end": "2027-03-22T22:30",
+      "liste": "Liste 28b",
+      "activity": "partielle (violons 2)",
+      "category": "repetition",
+      "location": "Centre Saint Boniface, Salle Rosa Parks",
+      "project": "",
+      "cancelled": false
+     },
+     "after": {
+      "uid": "osr220682",
+      "start": "2027-03-22T20:15",
+      "end": "2027-03-22T22:00",
+      "liste": "Liste 28b",
+      "activity": "partielle (violons 2)",
+      "category": "repetition",
+      "location": "Centre Saint Boniface, Salle Rosa Parks",
+      "project": "",
+      "cancelled": false
+     }
+    }
+   ]
+  },
+  {
+   "at": "2026-07-02T18:05:17.176Z",
+   "added": [],
+   "removed": [
+    {
+     "uid": "osr218572",
+     "start": "2026-08-28T11:30",
+     "end": "2026-08-28T12:30",
+     "liste": "Liste 04b",
+     "activity": "répétition",
+     "category": "repetition",
+     "location": "Victoria Hall de Genève",
+     "project": "ENR2",
+     "cancelled": true
+    },
+    {
+     "uid": "osr218569",
+     "start": "2026-08-28T14:30",
+     "end": "2026-08-28T17:00",
+     "liste": "Liste 04b",
+     "activity": "répétition (+ balance)",
+     "category": "repetition",
+     "location": "Victoria Hall de Genève",
+     "project": "ENR2",
+     "cancelled": true
+    },
+    {
+     "uid": "osr218568",
+     "start": "2026-08-29T10:30",
+     "end": "2026-08-29T13:00",
+     "liste": "Liste 04b",
+     "activity": "session enregistrement",
+     "category": "enregistrement",
+     "location": "Victoria Hall de Genève",
+     "project": "ENR2",
+     "cancelled": true
+    },
+    {
+     "uid": "osr218571",
+     "start": "2026-08-29T14:30",
+     "end": "2026-08-29T17:00",
+     "liste": "Liste 04b",
+     "activity": "session enregistrement",
+     "category": "enregistrement",
+     "location": "Victoria Hall de Genève",
+     "project": "ENR2",
+     "cancelled": true
+    }
+   ],
+   "modified": []
+  },
+  {
+   "at": "2026-07-02T16:18:51.133Z",
+   "added": [],
+   "removed": [
+    {
+     "uid": "osr132646",
+     "start": "2026-08-15T08:00",
+     "end": "2026-08-15T23:00",
+     "liste": "Liste 04",
+     "activity": "Technique (sans orch)",
+     "category": "generale",
+     "location": "Victoria Hall de Genève",
+     "project": "ENR1",
+     "cancelled": false
+    },
+    {
+     "uid": "osr132649",
+     "start": "2026-08-16T08:00",
+     "end": "2026-08-16T23:00",
+     "liste": "Liste 04",
+     "activity": "Technique (sans orch)",
+     "category": "generale",
+     "location": "Victoria Hall de Genève",
+     "project": "ENR1",
+     "cancelled": false
+    }
+   ],
+   "modified": []
+  }
+ ]
+}
